@@ -1,0 +1,161 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShoppingCartMvcUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookShoppingCartMvcUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\05a9b862-3fa2-490b-b141-acb083ec6014.jpg",
+      "PackagePath": "staticwebassets\\images\\05a9b862-3fa2-490b-b141-acb083ec6014.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\09ebe142-c911-41e6-8275-d90bfd5744bd.jpg",
+      "PackagePath": "staticwebassets\\images\\09ebe142-c911-41e6-8275-d90bfd5744bd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\0b5cf1c0-69a8-47a1-a39b-08c1854a58c6.jpg",
+      "PackagePath": "staticwebassets\\images\\0b5cf1c0-69a8-47a1-a39b-08c1854a58c6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\0df6625e-990e-4e63-a669-487c255524fd.jpg",
+      "PackagePath": "staticwebassets\\images\\0df6625e-990e-4e63-a669-487c255524fd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\12a4604f-7379-4853-b68c-42b3260c3f36.jpg",
+      "PackagePath": "staticwebassets\\images\\12a4604f-7379-4853-b68c-42b3260c3f36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\1ea09bbc-211e-4ec3-92ee-55305d9c45a3.jpg",
+      "PackagePath": "staticwebassets\\images\\1ea09bbc-211e-4ec3-92ee-55305d9c45a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\345621be-c20a-446e-a877-2807fbff32d5.jpg",
+      "PackagePath": "staticwebassets\\images\\345621be-c20a-446e-a877-2807fbff32d5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\35a4b182-67a0-439c-b00d-29593a777a25.jpg",
+      "PackagePath": "staticwebassets\\images\\35a4b182-67a0-439c-b00d-29593a777a25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\43650bb9-2f49-4afa-9110-fc4126da2417.jpg",
+      "PackagePath": "staticwebassets\\images\\43650bb9-2f49-4afa-9110-fc4126da2417.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\4a7f762d-b732-499a-9184-b79e4a034582.jpg",
+      "PackagePath": "staticwebassets\\images\\4a7f762d-b732-499a-9184-b79e4a034582.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\5a8586d2-ae4c-4ae9-b1b2-eda184a0878b.jpg",
+      "PackagePath": "staticwebassets\\images\\5a8586d2-ae4c-4ae9-b1b2-eda184a0878b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\61f7c064-8157-44fa-b54d-189c55eaba17.jpg",
+      "PackagePath": "staticwebassets\\images\\61f7c064-8157-44fa-b54d-189c55eaba17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\7c9261b4-9ac2-499c-a767-9e06bb1deeec.jpg",
+      "PackagePath": "staticwebassets\\images\\7c9261b4-9ac2-499c-a767-9e06bb1deeec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\7d413be6-b309-4a2d-8cd6-4262188be6e3.jpg",
+      "PackagePath": "staticwebassets\\images\\7d413be6-b309-4a2d-8cd6-4262188be6e3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\7e09d601-1766-4964-be10-19766ef60539.jpg",
+      "PackagePath": "staticwebassets\\images\\7e09d601-1766-4964-be10-19766ef60539.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\84ee3d45-480f-4c6f-89fc-7a34c8efd857.jpg",
+      "PackagePath": "staticwebassets\\images\\84ee3d45-480f-4c6f-89fc-7a34c8efd857.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\8bcf0b8a-df93-4a05-97fe-2ee011413059.jpg",
+      "PackagePath": "staticwebassets\\images\\8bcf0b8a-df93-4a05-97fe-2ee011413059.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\98c300e9-0769-4313-aba0-67bd898dad92.jpg",
+      "PackagePath": "staticwebassets\\images\\98c300e9-0769-4313-aba0-67bd898dad92.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\9e07a6d2-73b7-49a5-8ffe-e82ec26661c9.jpg",
+      "PackagePath": "staticwebassets\\images\\9e07a6d2-73b7-49a5-8ffe-e82ec26661c9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\9f30fed3-0421-42d7-8bfe-408095bc789c.jpg",
+      "PackagePath": "staticwebassets\\images\\9f30fed3-0421-42d7-8bfe-408095bc789c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\NoImage.png",
+      "PackagePath": "staticwebassets\\images\\NoImage.png"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\acb6fd30-7ce0-46d6-b623-74ae11c2fa5c.jpg",
+      "PackagePath": "staticwebassets\\images\\acb6fd30-7ce0-46d6-b623-74ae11c2fa5c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\afe28ca7-9a04-42ba-b596-7126e7065b3f.jpg",
+      "PackagePath": "staticwebassets\\images\\afe28ca7-9a04-42ba-b596-7126e7065b3f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\b3211d14-176e-4b67-a752-fc7f1d90ce93.jpg",
+      "PackagePath": "staticwebassets\\images\\b3211d14-176e-4b67-a752-fc7f1d90ce93.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\bdc2d298-f4cc-4a03-a021-6d1078e2be85.jpg",
+      "PackagePath": "staticwebassets\\images\\bdc2d298-f4cc-4a03-a021-6d1078e2be85.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\d2703220-d244-4367-95e7-e360ebfa0d06.jpg",
+      "PackagePath": "staticwebassets\\images\\d2703220-d244-4367-95e7-e360ebfa0d06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\d4aec052-c2bd-4fb2-8748-e360d1899869.jpg",
+      "PackagePath": "staticwebassets\\images\\d4aec052-c2bd-4fb2-8748-e360d1899869.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\e8ab63c2-c33f-4f06-8ab6-cba4d67507cb.jpg",
+      "PackagePath": "staticwebassets\\images\\e8ab63c2-c33f-4f06-8ab6-cba4d67507cb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\ea71d793-463d-4fa8-91f8-e218cdbcacca.jpg",
+      "PackagePath": "staticwebassets\\images\\ea71d793-463d-4fa8-91f8-e218cdbcacca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\f2816e83-f985-40c4-8e4b-68fd0242d41f.jpg",
+      "PackagePath": "staticwebassets\\images\\f2816e83-f985-40c4-8e4b-68fd0242d41f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\f2c30e44-9ad9-4dfe-a7a4-0ff946b63802.jpg",
+      "PackagePath": "staticwebassets\\images\\f2c30e44-9ad9-4dfe-a7a4-0ff946b63802.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tekno\\OneDrive\\Masaüstü\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\hobbit.jfif",
+      "PackagePath": "staticwebassets\\images\\hobbit.jfif"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookShoppingCartMvcUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookShoppingCartMvcUI.props",
+      "PackagePath": "build\\BookShoppingCartMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookShoppingCartMvcUI.props",
+      "PackagePath": "buildMultiTargeting\\BookShoppingCartMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookShoppingCartMvcUI.props",
+      "PackagePath": "buildTransitive\\BookShoppingCartMvcUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
